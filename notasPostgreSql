@@ -1,0 +1,12 @@
+npm run dev ==> Script para inicilizar el servidor y pasar los archivos typecript a javascript
+
+
+sudo -u postgres psql ==> inicilizar la base de datos y poder interactuar con postgres
+ctrl + l ==> limpiar terminal
+\l ==> enlistar las bases de datos
+\c <DATABASE NAME> ===> para escoger una base de datos
+Cuando estemos conectados a una base de datos
+\dt ==> enlistar todas las tablas
+\d <users> ===> enlistar tabla 'users'
+select * from <nombre de la tabla>
+\pset pager off
